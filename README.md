@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Fynn3001
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Fynn3001/Fynn3001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hallo ich bin Fynn :)
+Ich intressiere mich für Phyton und javascript .außerdem skate ich.
+Ich lerne im Moment Phyton zu lernen, also  bin ich noch relativ am Anfang.
